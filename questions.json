@@ -1,0 +1,239 @@
+{
+  "heading": "Addition in row and column",
+  "topics": [
+    {
+        "heading": "Addition in row and column",
+        "questions": [
+  {
+    "questionNo": 1,
+    "question": ["Find the value of a :<br> 36 + 22 = a8"],
+    "options": [
+      { "text": "3" },
+      { "text": "4" },
+      { "text": "5" },
+      { "text": "2" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": ["Calculate the value of a in the following row addition:<br> 25 + 45 = a0"],
+    "options": [
+      { "text": "0" },
+      { "text": "6" },
+      { "text": "7" },
+      { "text": "8" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": ["Determine the value of a :<br> 96 + 18 = a4"],
+    "options": [
+      { "text": "14" },
+      { "text": "13" },
+      { "text": "12" },
+      { "text": "11" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 4,
+    "question": ["Find the value of a in the following figure."],
+    "options": [
+      { "text": "0" },
+      { "text": "9" },
+      { "text": "10" },
+      { "text": "1" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/5.png"
+  },
+  {
+    "questionNo": 5,
+    "question": ["Calculate the value of a in the following figure."],
+    "options": [
+      { "text": "0" },
+      { "text": "1" },
+      { "text": "2" },
+      { "text": "10" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 6,
+    "question": ["Determine the value of a in the following figure."],
+    "options": [
+      { "text": "6" },
+      { "text": "7" },
+      { "text": "8" },
+      { "text": "9" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/7.png"
+  },
+  {
+    "questionNo": 7,
+    "question": ["Find the value of a in the following figure."],
+    "options": [
+      { "text": "9" },
+      { "text": "8" },
+      { "text": "1" },
+      { "text": "0" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 8,
+    "question": ["Find the missing number:<br> 298 + ___ = 876 + 298"],
+    "options": [
+      { "text": "0" },
+      { "text": "289" },
+      { "text": "876" },
+      { "text": "100" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "question": ["Which of the following shows the Identity Property of Addition?"],
+    "options": [
+      { "text": "785 + 215 = 215 + 785" },
+      { "text": "999 + 0 = 999" },
+      { "text": "(120 + 30) + 50 = 120 + (30 + 50)" },
+      { "text": "300 + 200 = 500" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": ["Find the missing number:<br> (2100 + 320) + 180 = 2100 + (_ + 180)"],
+    "options": [
+      { "text": "500" },
+      { "text": "180" },
+      { "text": "320" },
+      { "text": "2100" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": ["Find the value of a in the following row addition:<br> 46 + 27 = 7a"],
+    "options": [
+      { "text": "1" },
+      { "text": "2" },
+      { "text": "3" },
+      { "text": "7" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 12,
+    "question": ["Find the value of a in the following:<br> 58 + 36 = a4"],
+    "options": [
+      { "text": "4" },
+      { "text": "2" },
+      { "text": "1" },
+      { "text": "9" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 13,
+    "question": ["Find the value of a in the following addition:<br> 73 + 18 = 9a"],
+    "options": [
+      { "text": "0" },
+      { "text": "1" },
+      { "text": "2" },
+      { "text": "8" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "question": ["Find the value of a in the following column addition:"],
+    "options": [
+      { "text": "5" },
+      { "text": "4" },
+      { "text": "3" },
+      { "text": "0" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/9.png"
+  },
+  {
+    "questionNo": 15,
+    "question": ["Find the value of a in this addition:"],
+    "options": [
+      { "text": "7" },
+      { "text": "6" },
+      { "text": "5" },
+      { "text": "8" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 16,
+    "question": ["Determine the value of a: "],
+    "options": [
+      { "text": "9" },
+      { "text": "8" },
+      { "text": "7" },
+      { "text": "6" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/11.png"
+  },
+  {
+    "questionNo": 17,
+    "question": ["Find the value of a in the following:"],
+    "options": [
+      { "text": "7" },
+      { "text": "8" },
+      { "text": "9" },
+      { "text": "0" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/12.png"
+  },
+  {
+    "questionNo": 18,
+    "question": ["Find the missing number:<br> 125 + 480 = 480 + ___"],
+    "options": [
+      { "text": "125" },
+      { "text": "605" },
+      { "text": "480" },
+      { "text": "455" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 19,
+    "question": ["Find the missing number:<br> (3200 + 450) + 30 = 3200 + (450 + ___)"],
+    "options": [
+      { "text": "30" },
+      { "text": "450" },
+      { "text": "3200" },
+      { "text": "480" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 20,
+    "question": ["If 789 + 0 = 789, which property is used?"],
+    "options": [
+      { "text": "Commutative Property" },
+      { "text": "Identity Property" },
+      { "text": "Associative Property" },
+      { "text": "Zero Property" }
+    ],
+    "answer": 1
+  }
+]
+
+      }
+  ]
+}
